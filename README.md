@@ -42,9 +42,9 @@ $ go get -u github.com/btcsuite/btclog
 
 ```sh
 $ mkdir YourWorkSpace
-$ git clone Link.com
+$ git clone https://github.com/M-AMAIRI/BlockChain-Go-Wallet/blob/master/BitCTWG.go
 $ go build 
-$ fileName.exe
+$ YourWorkSpace.exe
 ```
 and then Get the contract info in json file 
 
